@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unity_opencv_plugin", "unity_opencv_plugin\unity_opencv_plugin.vcxproj", "{F760F6DB-6EE3-402D-AD67-E75B50F0E276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F760F6DB-6EE3-402D-AD67-E75B50F0E276}.Debug|x64.ActiveCfg = Debug|x64
+		{F760F6DB-6EE3-402D-AD67-E75B50F0E276}.Debug|x64.Build.0 = Debug|x64
+		{F760F6DB-6EE3-402D-AD67-E75B50F0E276}.Debug|x86.ActiveCfg = Debug|Win32
+		{F760F6DB-6EE3-402D-AD67-E75B50F0E276}.Debug|x86.Build.0 = Debug|Win32
+		{F760F6DB-6EE3-402D-AD67-E75B50F0E276}.Release|x64.ActiveCfg = Release|x64
+		{F760F6DB-6EE3-402D-AD67-E75B50F0E276}.Release|x64.Build.0 = Release|x64
+		{F760F6DB-6EE3-402D-AD67-E75B50F0E276}.Release|x86.ActiveCfg = Release|Win32
+		{F760F6DB-6EE3-402D-AD67-E75B50F0E276}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18083DC1-B4CB-41D8-A79E-569201585EDA}
+	EndGlobalSection
+EndGlobal
